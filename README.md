@@ -1,5 +1,5 @@
 ### 💡SOBRE MIM:
-&nbsp; Olá! Me chamo Vitor Augusto e estou atualmente fazendo uma transição de carreira para a área de Desenvolvimento de Software. Me &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; apaixonei pela área há um tempo, especialmente pela parte de resolver problemas e agora estou começando a trilhar este caminho &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; esperando que se torne a minha profissão. Curso Análise e Desenvolvimento de Software na Fatec Guaratinguetá, sou focado em back-end &nbsp; &nbsp; &nbsp; (Java e o ecossistema Spring) e tenho um certo fascínio pro Cloud.
+&nbsp; Olá! Me chamo Vitor Augusto e estou atualmente fazendo uma transição de carreira para a área de Desenvolvimento de Software. Me apaixonei pela área há um tempo, especialmente pela parte de resolver problemas e agora estou começando a trilhar este caminho esperando que se torne a minha profissão. Curso Análise e Desenvolvimento de Software na Fatec Guaratinguetá, sou focado em back-end (Java e o ecossistema Spring) e tenho um certo fascínio pro Cloud.
 <!--
 **vitoraugaspar/vitoraugaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
