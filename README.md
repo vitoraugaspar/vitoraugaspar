@@ -1,4 +1,4 @@
-#### 💡SOBRE MIM:
+#### 💡Sobre mim:
 &nbsp; Olá! Me chamo Vitor Augusto e estou atualmente fazendo uma transição de carreira para a área de Desenvolvimento de Software. Me &nbsp; &nbsp; apaixonei pela área há um tempo, especialmente pela parte de resolver problemas e agora estou começando a trilhar este caminho &nbsp; &nbsp; &nbsp; &nbsp; esperando que se torne a minha profissão. Curso Análise e Desenvolvimento de Sistemas na Fatec Guaratinguetá, sou focado em back- &nbsp; end (Java e o ecossistema Spring) e tenho um certo fascínio por Cloud.
 
 #### &#128295; Tecnologias:
